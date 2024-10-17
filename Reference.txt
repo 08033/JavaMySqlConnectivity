@@ -1,0 +1,8 @@
+1- https://dev.mysql.com/doc/connector-j/en/connector-j-usagenotes-connect-drivermanager.html
+2- https://dev.mysql.com/doc/connector-j/en/connector-j-usagenotes-statements.html
+3- https://www.geeksforgeeks.org/java-database-connectivity-with-mysql/
+4- https://docs.oracle.com/javase/6/docs/technotes/tools/windows/classpath.html
+--------------------------------------------
+Commands:
+javac Main.java
+java -classpath mysql-connector-j-9.1.0.jar Main.java
